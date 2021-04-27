@@ -1,0 +1,2 @@
+# TemplateDiscord
+ Normal Template Discord
